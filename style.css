@@ -1,0 +1,23 @@
+.bg-card {
+    background-color: rgb(167, 167, 192);
+    /* text-align: center; */
+    padding: 15px;
+    
+}
+.card-img1{
+    height: 300px;
+    width: 250px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.sumbit{
+  
+    padding: 15px;
+    border: 2px solid rgb(217, 242, 54);
+    background-color: transparent;
+    border-radius: 15px;
+
+}
+.b{
+    text-align: end;
+}
